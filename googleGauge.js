@@ -1,4 +1,4 @@
-(function() { 
+(function() {  
 	//Google Gauge library START
 	(function(){/*
 		Copyright The Closure Library Authors.
