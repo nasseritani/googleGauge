@@ -357,7 +357,7 @@
 				   r:8;
 				   stroke: white;
 				   stroke-width: 6px;
-				// }
+				 }
 				
 				// /* Main text of the gauge */
 				// #chart_div text {
@@ -385,7 +385,7 @@
 				   stroke: white;
 				   stroke-width: 2px;
 				   fill-opacity: 1;
-				// }
+			 }
 				
 				// /* Warning area */
 				 #chart_div path:nth-child(3) {
