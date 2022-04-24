@@ -334,11 +334,12 @@
 				:host {
 					display: block;
 				} 
-				// /* Outer-ring */
-				// #chart_div circle:nth-child(1) {
-				//   stroke-width: 5;
-				//   stroke: #999;
-				//   fill: #bbb;
+				 /* Outer-ring */
+				 #chart_div circle:nth-child(1) {
+				   stroke-width: 5;
+				  stroke: #999;
+				   fill: #f1f1f1;
+				   r:100;
 				// }
 				
 				// /* Main background */
