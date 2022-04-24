@@ -338,8 +338,8 @@
 				 #chart_div circle:nth-child(1) {
 				   stroke-width: 1;
 				  stroke: #b2b2b2;
-				   fill: #b2b2b2;
-				   r:100;
+				   fill: black;
+				  
 				 }
 				
 				// /* Main background */
