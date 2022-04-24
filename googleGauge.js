@@ -336,11 +336,11 @@
 				} 
 				 /* Outer-ring */
 				 #chart_div circle:nth-child(1) {
-				   stroke-width: 5;
-				  stroke: #999;
-				   fill: #f1f1f1;
+				   stroke-width: 1;
+				  stroke: #b2b2b2;
+				   fill: #b2b2b2;
 				   r:100;
-				// }
+				 }
 				
 				// /* Main background */
 				// #chart_div circle:nth-child(2) {
