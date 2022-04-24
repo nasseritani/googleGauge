@@ -337,9 +337,9 @@
 				 /* Outer-ring */
 				 #chart_div circle:nth-child(1) {
 				   stroke-width: 1;
-				  stroke: #b2b2b2;
-				   fill: black;
-				  
+				  stroke: #fffff;
+				   fill: #f1f1f1;
+				  r:100;
 				 }
 				
 				// /* Main background */
@@ -380,7 +380,7 @@
 				
 				// /* Circle */
 				// #chart_div path:nth-child(2) {
-				//   fill: #FC6C05;
+				//   fill: #e5e5e5;
 				//   stroke: white;
 				//   stroke-width: 2px;
 				//   fill-opacity: 1;
