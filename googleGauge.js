@@ -343,19 +343,20 @@
 				 }
 				
 				// /* Main background */
-				// #chart_div circle:nth-child(2) {
-				//   fill: black;
+				 #chart_div circle:nth-child(2) {
+				   fill: #f2f2f2;
 				//   stroke: #ddd;
 				//   stroke-width: 5;
 				//   width:1000px;
 
-				// }
+				 }
 				
 				// /* Circle of the pointer */
-				// #chart_div circle:nth-child(3) {
-				//   fill: pink;
-				//   stroke: white;
-				//   stroke-width: 6px;
+				 #chart_div circle:nth-child(3) {
+				   fill: white;
+				   r:8;
+				   stroke: white;
+				   stroke-width: 6px;
 				// }
 				
 				// /* Main text of the gauge */
@@ -374,22 +375,22 @@
 				// }
 				
 				// /* Ticks */
-				// #chart_div path {
-				//   stroke: white;
-				// }
+				 #chart_div path {
+				   stroke: white;
+				 }
 				
 				// /* Circle */
-				// #chart_div path:nth-child(2) {
-				//   fill: #e5e5e5;
-				//   stroke: white;
-				//   stroke-width: 2px;
-				//   fill-opacity: 1;
+				 #chart_div path:nth-child(2) {
+				   fill: #e5e5e5;
+				   stroke: white;
+				   stroke-width: 2px;
+				   fill-opacity: 1;
 				// }
 				
 				// /* Warning area */
-				// #chart_div path:nth-child(3) {
-				//   fill: lightgreen;
-				// }
+				 #chart_div path:nth-child(3) {
+				   fill: #2eba19d1;
+				 }
 				
 				// /* Danger area */
 				// #chart_div path:nth-child(4) {
